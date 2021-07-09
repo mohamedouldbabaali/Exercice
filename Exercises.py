@@ -31,11 +31,11 @@ for i in range(0,50):
 
 #Exercice N°4
 
-x=int(input("Enter your value"))
+x=int(input("Enter your value thet you wanna sum its serie of numbers:"))
 somme=0
 for i in range(0,x+1):
 	somme=somme+i
-print("The sum of your nembers is:", somme)
+print("The sum of your numbers is:", somme)
 
 #Exercice N°5
 
